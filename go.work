@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./app-upload
 	./toolkit
 	./toolkit-app
 )
